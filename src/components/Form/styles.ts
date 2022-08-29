@@ -29,4 +29,3 @@ export const Form = styled.form`
     color: #08263d;
   }
 `;
-export default Form;
